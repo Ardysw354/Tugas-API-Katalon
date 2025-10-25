@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "first_name": {
+          "type": "string"
+        },
+        "last_name": {
+          "type": "string"
+        },
+        "username": {
+          "type": "string"
+        },
+        "job_position": {
+          "type": "string"
+        },
+        "job_level": {
+          "type": "string"
+        },
+        "salary": {
+          "type": "integer"
+        },
+        "work_duration": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "first_name",
+        "last_name",
+        "username",
+        "job_position",
+        "job_level",
+        "salary",
+        "work_duration"
+      ]
+    }
+  ]
+}

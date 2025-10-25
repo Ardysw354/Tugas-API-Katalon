@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify endpoint GET single user - search is found</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f6b7213-5264-430d-9230-4ce82e4a5404</testCaseGuid>
+</TestCaseEntity>

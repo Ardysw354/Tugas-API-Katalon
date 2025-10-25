@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify CRUD User flow - success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8ca746e-a281-4b0a-9aea-4467cab69b11</testCaseGuid>
+</TestCaseEntity>

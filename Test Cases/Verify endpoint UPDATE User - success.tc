@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify endpoint UPDATE User - success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb3e4e7a-e252-4b16-a1d7-02a95de7b707</testCaseGuid>
+</TestCaseEntity>
